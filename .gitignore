@@ -1,0 +1,7 @@
+#add git ignore files here
+.settings
+.classpath
+.project
+*.class
+/bin/
+/target/
